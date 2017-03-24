@@ -9,9 +9,10 @@ gems:
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            scale-meetups
+tagline:          ''
+description:      'A humble attempt to help humanity scale their meetups. 
+                  Made by <a href="https://twitter.com/balki" target="_blank">@balki</a>.'
 baseurl:          /
 
 author:
