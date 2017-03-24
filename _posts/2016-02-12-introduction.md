@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: scale your meetups
 ---
 
 A number of our entrepreneurial friends asked me about how we have been scaling our 
@@ -13,5 +13,7 @@ can contribute and benefit from our learnings.
 
 -----
 Learn more and contribute on [GitHub](https://github.com/balki-server/scale-meetups).
+
+Proudly made by <a href="https://twitter.com/balki" target="_blank">@balki</a>.
 
 Thanks!
