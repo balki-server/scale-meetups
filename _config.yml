@@ -11,8 +11,7 @@ permalink:        pretty
 # Setup
 title:            scale-meetups
 tagline:          ''
-description:      'A humble attempt to help humanity scale their meetups. 
-                  Made by <a href="https://twitter.com/balki" target="_blank">@balki</a>.'
+description:      'helping humanity scale meetups.'
 baseurl:          /
 
 author:
