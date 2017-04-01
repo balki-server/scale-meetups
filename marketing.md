@@ -8,7 +8,7 @@ are quite fulfilling in the form of increased members/attendees and magnified in
 
 Here's various things we tried, some successful, others that bombed miserably:
 
-### Powered by Free Pizza
+### "Powered by Free Pizza" Branding
 Right from the get go, I was hoping to have a large audience at the meetups.  So in
 desperation, I offered free food (pizza) to all attendees paid from my pocket!
 In my naivete, I wanted to proudly proclaim that we were offering pizza.  We even
