@@ -40,10 +40,7 @@ blog a month.
 marketing your meetup to the right people.  We did do a few experiments with how we categorize
 our own meetup.  Meetup allows XXX categories (for good reason I would say) per meetup.  I am not quite sure if the categories themselves made any difference, but we settled on the following for our meetup.
 
-1. 20s and 30s
-2. young professionals
-3. new to portland
-4. sadfasdf
+*Professional Networking · Social · Self-Improvement · Technology · Professional Development · Career Network · Networking for Job Seekers · Job Search · Career · Social Networking · Finding a New Job · 20's & 30's Social · New In Town · Young Professionals*
 
 By far we get the most attendees (~65%) from meetup.com directly.  So, thank you meetup.com!
 

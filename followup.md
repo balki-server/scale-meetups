@@ -3,4 +3,9 @@ layout: page
 title: Follow-up
 ---
 
-this page is about {{page.title}}
+##Connect on LinkedIn
+Based on the above sign-up list, I follow-up with each and 
+
+##Offer to do a 25-min video call
+
+##Share new meetup blogs
